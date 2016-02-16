@@ -1,4 +1,4 @@
-# powershell-stuff
+# Powershell stuff
 Some small powershell projects I made for repetitive work
 
 ##GroupManager
